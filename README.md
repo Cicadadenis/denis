@@ -35,36 +35,35 @@ Tool-X работает в любой из следующих операцион
 
 * `apt install git`
 
-* `git clone https://github.com/Rajkumrdusad/Tool-X.git`
+* `git clone https://github.com/bednakovdenis/denis.git
 
 * `cd Tool-X`
 
 * `chmod +x install.aex`
 
-* `sh install.aex` if not work than use `./install.aex`
+* `sh install.aex` если не работа, использовать `./install.aex`
 
 ------------------------------------------------------------------------
 
-### How to Use ?
+### Как использовать?
 
-Enter a Number for a specific output:
-- (0) : To install all tools.
-- (1) : To show all available tools and type the number of a tool which you want to install.
-- (2) : To show tools category.
-- (3) : For the install of the operating system in Termux
-- (4) : If you want to update Tool-X.
-- (5) : If you want to know About Us.
-- (x) : To exit the tool.
+ Введите номер для конкретного выхода:
+ - (0): установить все инструменты.
+ - (1): показать все доступные инструменты и ввести номер инструмента, который вы хотите установить.
+ - (2): показать категорию инструментов.
+ - (3): для установки операционной системы в Termux
+ - (4): если вы хотите обновить Tool-X.
+ - (5): если вы хотите знать о нас.
+ - (х): для выхода из инструмента.
 
-<br/>
+ <br/>
 
-***Now Tool-X is installed successfully. To run Tool-X Type `Tool-X` or `toolx` in your terminal.***
+ *** Теперь Tool-X успешно установлен.  Для запуска Tool-X введите `Tool-X` или` toolx` в своем терминале. ***
 
-Type `Tool-X` or `toolx` from anywhere in your terminal to open Tool-X.
+ Введите «Tool-X» или «toolx» из любой точки вашего терминала, чтобы открыть Tool-X.
 
-------------------------------------------------------------------------
+ --------------------------------------------------  ----------------------
 
-**Warning**
+ ** Внимание **
 
-I am ***NOT*** expert, so use this tool at your own risk!
-
+ Я *** НЕ *** эксперт, поэтому пользуйтесь этим инструментом на свой страх и риск!
