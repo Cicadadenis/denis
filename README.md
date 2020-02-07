@@ -13,8 +13,8 @@
  Tool-X был разработан для Termux и других терминалов Android.  Используя Tool-X, вы можете установить почти 370+ инструментов для взлома в Termux (android) и других дистрибутивах на основе Linux.  Теперь Tool-X доступен для Ubuntu, Debian и т. Д.
 <br>
 <p align="center">
-<img width="53%" src="https://github.com/Rajkumrdusad/Tool-X/blob/master/core/toolx.png"/>
-<img width="38%" src="https://github.com/Rajkumrdusad/Tool-X/blob/master/core/toolx_cat.png"/>
+<img width="53%" src=""/>
+<img width="38%" src=""/>
 </p>
 
 ------------------------------------------------------------------------
