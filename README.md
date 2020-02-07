@@ -1,4 +1,4 @@
-# Tool-X v2.1
+# Tool-X v1.1.0 Bednakov D.L.
 
 [![Build Status](https://img.shields.io/github/forks/Rajkumrdusad/Tool-X.svg)](https://github.com/Rajkumrdusad/Tool-X)
 [![Build Status](https://img.shields.io/github/stars/Rajkumrdusad/Tool-X.svg)](https://github.com/Rajkumrdusad/Tool-X)
@@ -19,17 +19,17 @@
 
 ------------------------------------------------------------------------
 
-### Operating System Requirements
+### Требования к операционной системе
 
-Tool-X works on any of the following operating systems:<br>
-• **Android** (Using the Termux App) <br>
-• **Linux** (Debian Based Systems) <br>
+Tool-X работает в любой из следующих операционных систем: <br>
+ • ** Android ** (с помощью приложения Termux) <br>
+ • ** Linux ** (системы на основе Debian) <br>
 
 ------------------------------------------------------------------------
 
-### How to Install
+### Как установить
 
-Open the terminal and type following commands.
+ Откройте терминал и введите следующие команды.
 
 * `apt update`
 
